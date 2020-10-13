@@ -22,7 +22,6 @@ public class TankFrame extends Frame {
 
 	@Override
 	public void paint(Graphics g) {
-		g.fillRoundRect(100, 100, 50, 50, 10, 10);
 	}
 
 }
